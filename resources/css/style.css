@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  font-family: verdana;
+  font-family: verdana, sans-serif;
   text-align: center;
   color: white;
 
@@ -16,17 +16,17 @@ h2 {
   font-size: 42px;
 }
 
-h3 {
+p {
   font-size: 21px;
   color: gray;
 }
 
-a {
+.cta {
   color: aquamarine;
   font-size: 16px;
 }
 
-#copyright {
+.footer {
   text-align: right;
   color: gray
 }
